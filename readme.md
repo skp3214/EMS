@@ -6,6 +6,8 @@
 
 The Employee Management System (EMS) is a web application that allows organizations to manage their employee data efficiently. It provides functionalities to create, read, update, and delete employee records. The application is built using Angular for the frontend and Spring Boot for the backend, with MySQL as the database.
 
+https://github.com/user-attachments/assets/74857454-a55b-4a73-aa72-cf4a4274ce89
+
 ## Features
 
 - **Employee List**: View a list of all employees.
