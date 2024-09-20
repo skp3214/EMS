@@ -8,6 +8,8 @@ The Employee Management System (EMS) is a web application that allows organizati
 
 https://github.com/user-attachments/assets/74857454-a55b-4a73-aa72-cf4a4274ce89
 
+![image](https://github.com/user-attachments/assets/c4dbd0e5-c3e8-42b2-8b8a-6f78658f6bb6)
+
 ## Features
 
 - **Employee List**: View a list of all employees.
