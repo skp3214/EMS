@@ -56,7 +56,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ems-backend.git
+    git clone https://github.com/skp3214/ems.git
     cd backend
     ```
 
@@ -82,7 +82,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ems-frontend.git
+    git clone https://github.com/skp3214/ems.git
     cd frontend
     ```
 
